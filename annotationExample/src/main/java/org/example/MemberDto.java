@@ -1,6 +1,6 @@
 package org.example;
 
-//@Rombok
+@Rombok
 public class MemberDto {
 
     String name;
